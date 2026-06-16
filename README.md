@@ -1,5 +1,5 @@
 
-Hello here's a TLDR overview of my work. Recently it's been about designing LLM systems optimizing cost and accuracy at scale.
+Hello here's a TLDR overview of my work. Recently, it's been about designing domain-specific LLM systems optimizing cost and accuracy at scale.
 
 ***AI Research @ UBC***
 
